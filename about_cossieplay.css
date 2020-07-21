@@ -1,0 +1,60 @@
+BODY {background-image: URL(33333.png);
+background-position: center; 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:75% 100%;
+}
+h1{
+margin:50px 200px;
+}
+p{
+margin:50px 200px;
+line-height:3;
+}
+.center{ 
+text-align:center; 
+line-height:25px;
+}
+
+        
+.div3{
+margin:50px 150px;
+}
+
+.photo{
+width = "400";
+height = "200";
+position : relative;
+float : left;
+margin:50px 200px;
+
+}
+
+.container{
+position : relative;
+text-align : center;
+size : 2.5px;
+}
+.text-left{
+position : absolute;
+bottom : 7vw;
+left : 15vw;
+}
+a{
+color : #FFD5DF;
+}
+
+.text-right{
+position : absolute;
+bottom : 7vw;
+right : 15vw;
+}
+.click_centre{
+position : absolute;
+right : 35%;
+width : 25%;
+height : 70vw;
+bottom : 5vw;
+}
+
+

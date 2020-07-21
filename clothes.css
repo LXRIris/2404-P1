@@ -1,0 +1,64 @@
+BODY {background-image: URL(33333.png);
+background-position: center; 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:75% 100%;
+}
+
+
+h1{
+margin:50px 200px;
+}
+p{
+margin:50px 200px;
+line-height:3;
+}
+.container{
+position : relative;
+text-align : center;
+size : 2.5px;
+}
+.text-left{
+position : absolute;
+bottom : 7vw;
+left : 15vw;
+color : white;	
+}
+a{
+color : #FFD5DF;
+}
+
+.text-right{
+position : absolute;
+bottom : 7vw;
+right : 15vw;
+}
+.center{ 
+text-align:center; 
+line-height:25px;
+}
+
+.click_centre{
+position : absolute;
+right : 35%;
+width : 25%;
+height : 70vw;
+bottom : 5vw;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  text-align : center;
+}
+
+td, th {
+  border: 1px solid  #ffffff;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:  #ffffff;
+}

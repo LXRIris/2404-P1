@@ -1,0 +1,56 @@
+BODY {background-image: URL(33333.png);
+background-position: center; 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:75% 100%;
+}
+h1{
+margin:25px 220px;
+
+}
+p{
+margin:50px 220px;
+line-height:2.3;
+}
+
+
+.div3{
+margin:50px 200px;
+line-height:1.5;
+}
+.photo{
+position : relative;
+float : left;
+padding-left : 200px;
+padding-top : 30px;
+padding-right : 30px;	
+}
+
+.container{
+position : relative;
+text-align : center;
+size : 3px;
+}
+.text-left{
+position : absolute;
+bottom : 7vw;
+left : 15vw;
+}
+a{
+color : #FFD5DF;
+}
+
+.text-right{
+position : absolute;
+bottom : 7vw;
+right : 15vw;
+}
+
+.click_centre{
+position : absolute;
+right : 35%;
+width : 25%;
+height : 70vw;
+bottom : 5vw;
+}
+
